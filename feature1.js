@@ -1,1 +1,1 @@
-'use strict - change'
+'use strict--New changes applied';
